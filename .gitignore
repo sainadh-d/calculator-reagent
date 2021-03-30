@@ -1,0 +1,4 @@
+.shadow-cljs/*
+package-lock.json
+node_modules/*
+public/js/compiled/*

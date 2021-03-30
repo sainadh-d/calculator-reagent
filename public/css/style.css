@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.display {
+  height: 60px;
+  background-color: #bbb;
+  width: 100%;
+}
+
+.display p {
+  font-size: 40px;
+  padding-top: 10px;
+  margin: 5px;
+}
+
+.calculator-body {
+  max-width: 400px;
+  margin: auto;
+}
+
+.keypad {
+  display: block;
+  background-color: #bbb;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 28px;
+}
