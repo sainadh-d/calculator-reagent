@@ -5,6 +5,8 @@ Simple calculator built using Clojurescript, shadow-cljs and Reagent
 
 > Inspiration: https://github.com/niinpatel/calculator-react
 
+Checkout live demo [here](https://sainadh-d.github.io/calculator-reagent/)
+
 ## Run
 
 ``` shell
